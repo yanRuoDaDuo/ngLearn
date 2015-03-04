@@ -1,2 +1,2 @@
 # ngLearn
-About learn angular
+About learn angular 嗯呐
